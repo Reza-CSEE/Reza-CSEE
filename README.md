@@ -1,4 +1,4 @@
-<h1 align="center">📊 Reza — Quantitative Analyst & Algorithmic Trader</h1>
+<h1 align="center">📊 Reza — AI Developer & Quantitative Analyst</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
@@ -12,7 +12,7 @@
 
 Hello! I’m **Reza**, a Quantitative Analyst with a passion for numbers, markets, and automation. I specialize in building algorithmic trading strategies that blend classic financial techniques with modern AI & data science.
 
-With a background in **Control Engineering**, I use my analytical mindset to explore opportunities in:
+With a background in **Computer Science**, I use my analytical mindset to explore opportunities in:
 
 - 📈 Statistical Arbitrage
 - 🤖 Machine Learning & Reinforcement Learning for Trading
